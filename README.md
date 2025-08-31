@@ -20,7 +20,7 @@
 
 - 🔭 **I’m currently working on:** *analyzing user behavior for a fictional subscription service and provide actionable recommendations to the product team.*
 
-- 🌱 **I’m currently learning about :** *Diving deeper into predictive modeling, specifically focusing on building and deploying churn prediction models.*
+- 🌱 **I’m currently learning about:** *Diving deeper into predictive modeling, specifically focusing on building and deploying churn prediction models.*
 
 - 👯 **I’m looking to collaborate on:** *joining open-source projects that use data science to solve real-world problems, especially in areas like sustainable technology or FinTech.*
 
