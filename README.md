@@ -4,6 +4,12 @@
 
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 
+<a href="https://www.instagram.com/rajat.rsm/#">
+  <img align="left" alt="Rajat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="www.linkedin.com/in/rajat-shrimal">
+  <img align="left" alt="Rajat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajat-shrimal&label=Profile%20views&color=0e75b6&style=flat" alt="Rajat-shrimal" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Rajat+Shrimal;A+Data+Specialist;Proficient+in+Advance+SQL;A+Learner;A+Data+Science+Enthusiast;)](https://git.io/typing-svg)
