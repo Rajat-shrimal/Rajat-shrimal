@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/rajat.rsm/#">
   <img align="left" alt="Rajat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="www.linkedin.com/in/rajat-shrimal">
+<a href="www.linkedin.com/in/rajat-shrimal/#">
   <img align="left" alt="Rajat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajat-shrimal&label=Profile%20views&color=0e75b6&style=flat" alt="Rajat-shrimal" /> </p>
